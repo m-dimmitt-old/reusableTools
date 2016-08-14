@@ -6,10 +6,11 @@ Reusable Tools from different Programming Languages
 
 
 * buffers    
-# Error checking "to Do":      
+# Error checking, "to Do"      
 
-* city 
+
 * address(usa?)
+* city 
 * state
 * zipcode   
 * areacode
