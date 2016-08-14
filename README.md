@@ -7,7 +7,7 @@ buffers
 
 error checking to Do:
 
-adress(us?)
+adress(us?)\n
 city 
 state
 zipcode
