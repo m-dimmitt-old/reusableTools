@@ -8,7 +8,8 @@ Reusable Tools from different Programming Languages
 * buffers    
 # Error checking, "to Do"      
 
-
+last name (what is allowed here what is not allowed)
+first name
 * address(usa?)
 * city 
 * state
@@ -17,7 +18,5 @@ Reusable Tools from different Programming Languages
 * phone num   
 * email  
 
-last name (what is allowed here what is not allowed)
 
-first name
 
