@@ -6,7 +6,7 @@ Reusable Tools from different Programming Languages
 
 
 * buffers    
-# error checking "to Do":      
+# Error checking "to Do":      
 
 * adress(us?)
 * city 
