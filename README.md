@@ -7,7 +7,6 @@ Reusable Tools from different Programming Languages
 
 * buffers    
 # Error checking "to Do":      
-
 * address(usa?)
 * city 
 * state
