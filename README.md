@@ -1,19 +1,20 @@
+##    Additional parts Set up (in place)  
+
 # reusableTools
 Reusable Tools from different Programming Languages
 
 
-buffers
 
+* buffers    
+# error checking "to Do":      
 
-error checking to Do:
-
-adress(us?)"\n"
-city 
-state
-zipcode
-areacode
-phone num
-email
+* adress(us?)
+* city 
+* state
+* zipcode   
+* areacode
+* phone num   
+* email  
 
 last name (what is allowed here what is not allowed)
 
