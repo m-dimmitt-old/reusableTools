@@ -10,7 +10,7 @@ Reusable Tools from different Programming Languages
 # Error checking, "to Do"      
 
 
-last name (what is allowed here what is not allowed)
+last name (what is allowed here what is not allowed here?)
 * first name
 * address(usa?)
 * city 
