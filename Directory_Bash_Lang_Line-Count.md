@@ -6,9 +6,9 @@ after downloading cloc through homebrew...
 `brew install cloc`
 ##Cool Bash script 
 
-go through each directory and giving the line counts for each language and the sum for line count in each directory. 
+go through each directory and give the line count for each language and give the line-count-sum for each directory. 
 
-
+For my use as you will see in the example, My script was the topmost script which was a directory with sub directories. and the output is also shown. This should be scalable to as many sub directories as you would like as long as you continue the nesting statement correctly.
 ```
 for d in ./*/ ; do (cd "$d" && for d in ./*/ ; do (cd "$d" && cloc $(git ls-files)); done); done
 
