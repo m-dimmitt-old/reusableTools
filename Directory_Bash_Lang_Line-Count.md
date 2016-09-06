@@ -9,7 +9,7 @@ after downloading cloc through homebrew...
 go through each directory and giving the line counts for each language and the sum for line count in each directory. 
 
 
-
+```
 for d in ./*/ ; do (cd "$d" && for d in ./*/ ; do (cd "$d" && cloc $(git ls-files)); done); done
 
 for d in ./*/ ; do (cd "$d" && ls); done
@@ -183,4 +183,4 @@ Saving session...
 Saving session...
 ...saving history...truncating history files...
 ...completed.
-
+```
