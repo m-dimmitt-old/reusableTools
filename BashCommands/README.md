@@ -1,5 +1,5 @@
 #Copy from OSPrey to your local desktop
-##-In regular terminal
+##-In regular terminal, commands:
 pwd
 
 Scp -r n00841838@osprey.unf.edu:site  /c/Users/HoraceD/Desktop
