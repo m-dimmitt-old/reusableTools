@@ -1,0 +1,6 @@
+all in exit mode
+
+dd - delete line
+y  - copy
+P  - Paste
+A  - end of line and change to insert mode
