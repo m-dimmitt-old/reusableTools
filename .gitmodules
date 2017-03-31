@@ -1,6 +1,6 @@
-[submodule "Git_Commands"]
-	path = Git_Commands
-	url = https://github.com/mikenewgit01/Git_Commands.git
 [submodule "Bash_Directory_CLOC-Count-Lines-of-Program"]
 	path = Bash_Directory_CLOC-Count-Lines-of-Program
 	url = https://github.com/miketestgit01/Bash_Directory_CLOC-Count-Lines-of-Program
+[submodule "useful-commands"]
+	path = useful-commands
+	url = https://github.com/MichaelDimmitt-Starred/useful-commands.git
